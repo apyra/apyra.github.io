@@ -11049,3 +11049,7 @@ min-width:auto!important;
 .dropdown-item{
 cursor:pointer;
 }
+
+.navbar-toggler {
+border:none;
+}
